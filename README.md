@@ -2,5 +2,5 @@
 
 # Analog/Digital Converter
 
-<p> Creation of an Analogic/Numeric converter.
+<p> Creation of an Analog/Digital converter.
 This project was carried out as part of the Electronics and Embedded Systems engineering course.at Polytech Nice Sophia.</p>
